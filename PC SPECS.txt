@@ -1,0 +1,44 @@
+PC 1:
+PC Gamer Draco Core I3 10105F 10Th Gen
+S/ 2,199
+Precio Regular s/ 3,099
+
+CPU Intel Core i3 10105F
+ 3.7GHZ Cache 6Mb 
+Disco Sólido SSD 256 GB
+Memoria RAM 8GB DDR4 2666 MHz
+Monitor LED 19" HD Widescreen
+Mainboard H410
+Tarjeta de Video Nvidia GTX650 2GB GDDR5 
+DVI/ HDMI
+Kit Gamer: Teclado, mouse
+Fuente Real 550 W
+
+PC 2:
+Computadora Core I5 6th
+S/ 2,499
+Precio Regular s/2,799
+
+CPU Intel Core i5 6th
+Disco Sólido SSD 500GB
+Memoria RAM 16GB DDR4 
+Monitor LED 22" FHD Widescreen
+Mainboard H110
+Tarjeta de Video Nvidia GT1030 2GB
+DVI/ HDMI
+kit: teclado y mouse logitech mk120
+Fuente Real 550 W
+
+PC 3:
+PC Gamer Haku Red Plus Ryzen 5-5600G
+S/ 2,899
+Precio Regular s/ 3,399
+
+AMD Ryzen 5 5600G
+3.9 GHz - 4.4 Max, 6 Núcleos, 12 hilos, 16MB cache
+Disco Sólido SSD M2 NVME 500GB
+Memoria RAM 16GB DDR4
+Monitor LED 24" FHD Curvo
+Mainboard A520 DVI/ HDMI/Wifi
+Kit Gamer: Teclado, Mouse 
+Fuente Real 550 W

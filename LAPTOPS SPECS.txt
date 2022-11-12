@@ -1,0 +1,54 @@
+LAPTOP 1:
+Laptop HP 250 G8 15.6" Core I3
+S/ 1,699
+Precio Regular s/ 2,899
+
+Laptop Intel Core i3-1005G1 1.20 / 3.40GHz
+Caché L3 4MB
+Disco Sólido SSD 240GB
+Disco Duro HDD 1TB
+RAM 8GB DDR4 2666 MHz 
+"Pantalla  15.6 PULG LED SVA HD WIDE RESOLUCION MAXIMA 1366 x 768 ANTI-GLARE"
+Video INTEL UHD GRAPHICS
+Bluetooth 4.2
+WebCam 
+USB 3.2 TIPO-A GEN 1 2
+USB 3.2 TIPO-C GEN 1 1
+RJ45 1"
+Wireless 802.11AC 
+Batería li-on 41WH
+
+
+LAPTOP 2:
+Laptop HP 15-EF2522LA 15.6" Ryzen 3
+S/ 2,099
+Precio Regular s/ 2,399
+
+AMD Ryzen 3 5300U 2.6GHz
+4 núcleos, Caché 4MB
+Disco Sólido SSD M.2 500GB
+RAM 16GB DDR4 
+Pantalla 15.6" HD Brightview
+Gráficos AMD Radeon 
+Bluetooth 4.2 / Wifi
+WebCam HD 720p
+Teclado en español + numérico
+USB type C / HDMI
+Batería 3 celdas y 41Wh
+
+LAPTOP 3:
+Laptop HP Victus 15-FA0031DX 15.6" Core I5 12th
+S/ 4,199
+Precio Regular s/ 4,499
+
+Laptop Intel Core i5 12450H 
+3.30 GHz turbo 4.40 GHz Caché 12 MB núcleos 8
+Disco Sólido SSD 512GB
+RAM 16 GB DDR4 
+Pantalla FHD 15.6" IPS LED 144Hz
+Tarjeta de video NVIDIA GeForce GTX 1650 4GB
+RJ45 / HDMI / USB 2.0 
+Windows 11
+Wi-Fi 6 (802.11ax) - Bluetooth 5.0
+Teclado en inglés retroiluminado
+Batería 3 celdas 52.5Wh
